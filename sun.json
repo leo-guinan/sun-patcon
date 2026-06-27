@@ -1,0 +1,382 @@
+{
+  "id": "sun-patcon",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@patcon_ Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b845172337dc",
+    "display_name": "patcon_",
+    "user_id": "@patcon_",
+    "description": "Community Archive-derived proof-of-search sun for @patcon_.",
+    "document_count": 12048,
+    "word_count": 284803,
+    "active_days": 3123,
+    "emissions": [
+      "Hey",
+      "Thanks",
+      "Any",
+      "Might",
+      "Civictech",
+      "Don"
+    ],
+    "generated_at": "2026-06-27T16:53:16.354903+00:00",
+    "color": "#f59e0b",
+    "mass": 12.56
+  },
+  "planets": [
+    {
+      "id": "planet_a6a391aa54c0",
+      "name": "Hey",
+      "summary": "Archive cluster around hey: 9864 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "hey",
+        "maybe",
+        "now",
+        "new",
+        "here"
+      ],
+      "artifacts": [
+        {
+          "id": "art_679037704902",
+          "title": "Hey receipt from 2021-05-21",
+          "excerpt": "This honestly made me tear up. So much gratitude to these Orthodox Jews, and I have been deeply moved (and to be totally honest, even challenged and shamed in my own views of orthodoxy for which I clearly have room to grow and learn) https://t.co/tOTUbH3uOh",
+          "source_document_id": "1395771229307654145",
+          "timestamp": "2021-05-21T15:59:27+00:00",
+          "url": "https://x.com/patcon_/status/1395771229307654145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hey, maybe, now, new."
+        },
+        {
+          "id": "art_52f6feebe02c",
+          "title": "Hey receipt from 2019-06-30",
+          "excerpt": "@Allegratastic @tyrell_wes @deAdder Many papers, yet one person deserves shame: @jdirvinglimited owner &amp; tycoon, James K Irving. They're a weird fucking family that runs an \"industrial-media complex\" &amp; viciously buys out or buries every independent competing newspaper in the prov of NB. See https://t.co/MmVOHccA9Z",
+          "source_document_id": "1145189171184787456",
+          "timestamp": "2019-06-30T04:35:49+00:00",
+          "url": "https://x.com/patcon_/status/1145189171184787456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hey, maybe, now, new."
+        },
+        {
+          "id": "art_49a8d9eb3059",
+          "title": "Hey receipt from 2020-11-25",
+          "excerpt": "@skepteis I believe this is related to the \"perpetual diamond\" illusion that made the rounds, which resulted from some research published last year: https://t.co/pItTWEUpGA",
+          "source_document_id": "1331701696066707457",
+          "timestamp": "2020-11-25T20:50:00+00:00",
+          "url": "https://x.com/patcon_/status/1331701696066707457",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hey, maybe, now, new."
+        },
+        {
+          "id": "art_52a47534bbc5",
+          "title": "Hey receipt from 2019-03-31",
+          "excerpt": "The world must know this exists. How do I fund this campaign to fund this campaign? https://t.co/DBacBI1wig",
+          "source_document_id": "1112247670209503232",
+          "timestamp": "2019-03-31T06:58:03+00:00",
+          "url": "https://x.com/patcon_/status/1112247670209503232",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: hey, maybe, now, new."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4b65c22ea051",
+      "proof_score": 1,
+      "mass": 36.942,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_d09211be5080",
+      "name": "Thanks",
+      "summary": "Archive cluster around thanks: 564 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "thanks",
+        "might",
+        "man",
+        "any",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c885076b3265",
+          "title": "Thanks receipt from 2019-08-13",
+          "excerpt": "Yay for @ae_clarke, answering questions and offering analysis on the @ONgov's Faster Simpler Better Services Act on #DigitalTransformation, after guest speaking @CivicTechTO hacknight (thanks for hosting @pagerduty!) #civictechtuesday #civictech #Ontario https://t.co/pYS826sl0e",
+          "source_document_id": "1161419903057969154",
+          "timestamp": "2019-08-13T23:30:57+00:00",
+          "url": "https://x.com/patcon_/status/1161419903057969154",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, might, man, any."
+        },
+        {
+          "id": "art_3718f838f11e",
+          "title": "Thanks receipt from 2018-12-15",
+          "excerpt": "Thanks so so much to @TFDemocracy for sponsoring my recently-completed research, and esp to those in the @g0vtw community who have shared so much of themselves! I'm so grateful for the opportunities to reflect on community #organizing and #civictech. Published report incoming :)",
+          "source_document_id": "1073822851927400448",
+          "timestamp": "2018-12-15T06:11:33+00:00",
+          "url": "https://x.com/patcon_/status/1073822851927400448",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, might, man, any."
+        },
+        {
+          "id": "art_d69f8efc87e3",
+          "title": "Thanks receipt from 2019-03-26",
+          "excerpt": "Google: Yes? #AMP? Move whole internet onto our servers?\n\nUs: No.\n\nGoogle: Yes now?\n\nUs: No.\n\nG: Yes? Still curious. We just gonna be working on this, just in case.\n\nUs: NO GOOGLE\n\nG: ..Yes?\n\nUs: *busy living life*\n\nG: OK GREAT WE DO THING THANKS FOR ENGAGING #blocksidewalk",
+          "source_document_id": "1110623115657175040",
+          "timestamp": "2019-03-26T19:22:39+00:00",
+          "url": "https://x.com/patcon_/status/1110623115657175040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, might, man, any."
+        },
+        {
+          "id": "art_3000e3472903",
+          "title": "Thanks receipt from 2022-12-12",
+          "excerpt": "re: \"How the species killing the planet can save it\". Thanks to @Ostrom_Workshop and @leashless for the thinks! https://t.co/3p4HJ1y6OB\n\nScratch notes here for anyone curious: https://t.co/IeZDmtSTmC",
+          "source_document_id": "1602402826319237131",
+          "timestamp": "2022-12-12T20:39:39+00:00",
+          "url": "https://x.com/patcon_/status/1602402826319237131",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, might, man, any."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_15dec6759d26",
+      "proof_score": 0.984,
+      "mass": 28.272,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_6cc62fa4dcb4",
+      "name": "Any",
+      "summary": "Archive cluster around any: 464 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "any",
+        "chance",
+        "know",
+        "might",
+        "don"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bc1d7361ca91",
+          "title": "Any receipt from 2019-02-06",
+          "excerpt": "I'm starting to feel that I'm less afraid of any particular ideology, but rather, I most fear the distance *between* ideologies. It feels more \"towards life\" to rage against the larger social neglect which breeds that distance.",
+          "source_document_id": "1093189639500906498",
+          "timestamp": "2019-02-06T16:48:15+00:00",
+          "url": "https://x.com/patcon_/status/1093189639500906498",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, chance, know, might."
+        },
+        {
+          "id": "art_223cefb76fb9",
+          "title": "Any receipt from 2018-08-13",
+          "excerpt": "Hello, friends! If you appreciate the work I do in the world, particularly related to #civictech, I’d be so grateful for any donations to help me get to Taiwan -- I have a dream opportunity to research #g0v! https://t.co/3S2ZDg9TrE RTs welcome :)",
+          "source_document_id": "1028964765614333952",
+          "timestamp": "2018-08-13T11:21:32+00:00",
+          "url": "https://x.com/patcon_/status/1028964765614333952",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, chance, know, might."
+        },
+        {
+          "id": "art_bd5f4a432848",
+          "title": "Any receipt from 2019-07-24",
+          "excerpt": "Related to #SidewalkTO #BlockSidewalk: Scientists have \"publicly released an algorithm that can identify 99.98 percent of ppl from almost any available data set with as few as 15 attributes (eg. gender, ZIP code)\" https://t.co/DsVeXNnlBF #civictech",
+          "source_document_id": "1153993757706137601",
+          "timestamp": "2019-07-24T11:42:06+00:00",
+          "url": "https://x.com/patcon_/status/1153993757706137601",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, chance, know, might."
+        },
+        {
+          "id": "art_46eb909cfce2",
+          "title": "Any receipt from 2019-08-29",
+          "excerpt": "psssst @doctorow if you are in #Toronto Sept 20-22, you should totally come out to @_ournetworks! Or if not, pls do tell any friendly people and animals and AI's about it! https://t.co/hqGvvf3FdH 🌱🛠️🎛️📡🛰️🍃 #maintenance #decentralized #ournetworks #infrastructure #REInfra https://t.co/X88IzW4mdC",
+          "source_document_id": "1167012933697703936",
+          "timestamp": "2019-08-29T09:55:40+00:00",
+          "url": "https://x.com/patcon_/status/1167012933697703936",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, chance, know, might."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fe91ad25bf24",
+      "proof_score": 0.964,
+      "mass": 28.697,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_581e71b99bf8",
+      "name": "Might",
+      "summary": "Archive cluster around might: 429 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "might",
+        "work",
+        "think",
+        "maybe",
+        "thinking"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a0f822fa5926",
+          "title": "Might receipt from 2014-09-09",
+          "excerpt": "i LOVE that award-winning #scifi authors r in the #ethereum forums asking how realistic their past plots might be :) https://t.co/R65sjiJ7My",
+          "source_document_id": "509414753425702912",
+          "timestamp": "2014-09-09T18:55:16+00:00",
+          "url": "https://x.com/patcon_/status/509414753425702912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, work, think, maybe."
+        },
+        {
+          "id": "art_e2dc79916091",
+          "title": "Might receipt from 2025-04-28",
+          "excerpt": "Interested in extending the ideas behind #democracy -supporting algos like in https://t.co/YnUtoMBYvr? here's a first-pass showing deeper structure that might be possible to find in large conversations, with new dimensional reduction algorithms beyond PCA, like PaCMAP &amp; LocalMAP https://t.co/Jql4owQoZp",
+          "source_document_id": "1916945350776025480",
+          "timestamp": "2025-04-28T19:59:21+00:00",
+          "url": "https://x.com/patcon_/status/1916945350776025480",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, work, think, maybe."
+        },
+        {
+          "id": "art_9e6fc6f6c0ee",
+          "title": "Might receipt from 2021-03-12",
+          "excerpt": "You may not know it yet, but you CARE about community infrastructure, how to fund it together, and the future #cooperatives that might support it. This #MozFest session is running in 5h, and features some bright faces with some #Toronto &amp; #civictech connections. Join! #solidarity https://t.co/w3TT1LHNdh",
+          "source_document_id": "1370399845832351750",
+          "timestamp": "2021-03-12T15:42:38+00:00",
+          "url": "https://x.com/patcon_/status/1370399845832351750",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, work, think, maybe."
+        },
+        {
+          "id": "art_ae5356a64bf2",
+          "title": "Might receipt from 2022-09-12",
+          "excerpt": "@azlenelza Now I'm wondering what it might feel like to see visual elements of frames in translucent cloud of shapes. But then how to decide transparency? maybe \"interesting\" shapes appear more dense? And now I'm wondering how this might be an analogy for memory or how ML \"sees\" video... :D",
+          "source_document_id": "1569374529029378049",
+          "timestamp": "2022-09-12T17:16:59+00:00",
+          "url": "https://x.com/patcon_/status/1569374529029378049",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, work, think, maybe."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6b552ef3c0a4",
+      "proof_score": 0.956,
+      "mass": 28.53,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_b8c9d0c41460",
+      "name": "Civictech",
+      "summary": "Archive cluster around civictech: 378 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "civictech",
+        "civictechto",
+        "hacknight",
+        "speaking",
+        "community"
+      ],
+      "artifacts": [
+        {
+          "id": "art_104769c62ec2",
+          "title": "Civictech receipt from 2022-09-26",
+          "excerpt": "Yeeeooww! Just arrived in #London for a year-long residency at @nwspk! If you're visiting or living here, poke me and I'd be stoked to grab a coffee drink or a dizzy drink! (ie. beer.) And happy to talk #civictech! or privacy tech! or hacknight community organizing! or whatev! &lt;3",
+          "source_document_id": "1574368621027024901",
+          "timestamp": "2022-09-26T12:01:44+00:00",
+          "url": "https://x.com/patcon_/status/1574368621027024901",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: civictech, civictechto, hacknight, speaking."
+        },
+        {
+          "id": "art_03c2833f6aa4",
+          "title": "Civictech receipt from 2022-04-05",
+          "excerpt": "\"when the right person in government believes that something can happen, it can happen really quickly\" -- Joel Schellenberger sharing at @CivicTechTO, about @ONdigital's UX and rapid prototyping with @figma in #Ontario government 🎉🏛️ #civictech",
+          "source_document_id": "1511491476047470598",
+          "timestamp": "2022-04-05T23:50:24+00:00",
+          "url": "https://x.com/patcon_/status/1511491476047470598",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: civictech, civictechto, hacknight, speaking."
+        },
+        {
+          "id": "art_b0c0d37e89cc",
+          "title": "Civictech receipt from 2022-02-26",
+          "excerpt": "Just heard the #Ukraine gov has set up a hotline for #RussianArmy families to find out if children have been captured/killed. This is compassionate. Can the intl #civictech community support this? cc @CodeforAll #StandWithUkraine #NoWar #RussiansForPeace https://t.co/OAwpNBunhM",
+          "source_document_id": "1497614188973281283",
+          "timestamp": "2022-02-26T16:47:01+00:00",
+          "url": "https://x.com/patcon_/status/1497614188973281283",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: civictech, civictechto, hacknight, speaking."
+        },
+        {
+          "id": "art_fdcadd928496",
+          "title": "Civictech receipt from 2021-02-16",
+          "excerpt": "Fresh off the press: @cityoftoronto has a job listing for hiring a couple full-time \"management consultants\" to work under CTO @lawrence_eta, supporting #ConnectTO: https://t.co/GN4YiYj0Mw #civictech #topoli #broadband",
+          "source_document_id": "1361808589745184768",
+          "timestamp": "2021-02-16T22:44:03+00:00",
+          "url": "https://x.com/patcon_/status/1361808589745184768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: civictech, civictechto, hacknight, speaking."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_06f257b18f42",
+      "proof_score": 0.944,
+      "mass": 27.97,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_2d9937199552",
+      "name": "Don",
+      "summary": "Archive cluster around don: 349 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "think",
+        "suppose",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_201b99fbc7f1",
+          "title": "Don receipt from 2025-11-07",
+          "excerpt": "@archiveis Pls don't do it @tucows @TingInternet -- As a Canadian, you are dead to me if you kneel to them.",
+          "source_document_id": "1986585231827313129",
+          "timestamp": "2025-11-07T00:03:22+00:00",
+          "url": "https://x.com/patcon_/status/1986585231827313129",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, suppose."
+        },
+        {
+          "id": "art_abadfeb60f79",
+          "title": "Don receipt from 2018-02-09",
+          "excerpt": "\"After my talk, pls introduce yourself. Because if you don't introduce yourself, then you don't exist in my world. And if you don't exist in my world, then there can be no dialogue.\" -- @davebest99 of @blindcanadians at #InclusionON summit #digitalinclusion",
+          "source_document_id": "962008786931138561",
+          "timestamp": "2018-02-09T17:02:22+00:00",
+          "url": "https://x.com/patcon_/status/962008786931138561",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, suppose."
+        },
+        {
+          "id": "art_fab569e6ef3b",
+          "title": "Don receipt from 2019-05-07",
+          "excerpt": "@biancawylie OMG YES. Upstream. Don't throw processing power &amp; proprietary tech at an issue that is at its core one of political will. Let's exercise ability to work together (a domain in which we TRULY could use tech assistance) instead of adding new scrubbers onto stubborn waste streams",
+          "source_document_id": "1125865299306135552",
+          "timestamp": "2019-05-07T20:49:39+00:00",
+          "url": "https://x.com/patcon_/status/1125865299306135552",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, suppose."
+        },
+        {
+          "id": "art_e321cb81cecc",
+          "title": "Don receipt from 2019-08-01",
+          "excerpt": "Holy fuck, I am loving this podcast episode! Listen listen listen. And totally stealing Z's line of \"...so we don't all die\" as something to tag onto most sentences talking about the reality field we're currently drifting through, and why things NEED TO BE DONE https://t.co/j3k3O57gOh",
+          "source_document_id": "1156787447440826368",
+          "timestamp": "2019-08-01T04:43:14+00:00",
+          "url": "https://x.com/patcon_/status/1156787447440826368",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, suppose."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_53df28cff252",
+      "proof_score": 0.936,
+      "mass": 27.833,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
